@@ -1,0 +1,29 @@
+{
+  "schema_version": 3,
+  "sha256": {
+    "README.md": "2e5cc20738d7c59b4ecfff6cd755187b807fee4b6e732d71550a053ce9a74871",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/plugins/BuildFile.xml": "d6f21b2bc5a0733c40429a0e7e919ce237f233a0ef060cd5b95935b63a92cc70",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/plugins/PFCollectionExtractor.cc": "7d018a8347f29a8f029833fea52d7dfc08fd5719c00b59b0d269fe33af0517c3",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/test/BuildFile.xml": "fc1ce4d0f6b5ea291eb10d7706876eb495438da87685b15faf728430ba68d69e",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/test/compare_truth.py": "9fb245bf8b9d801a0a6914a7347ad89857fe6b70517a9ac7b4b07aa4f3485626",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/test/pfExtractor_cfg.py": "fa593cc0acc19b91ebe4e02c94e95c26c2a4675215123adabab342066122c819",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/test/report_events.py": "237f5483ca2444ce25294fa59aaa590e08cdffd264ec38a99df5b42cb9fb2ba5",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/test/test_catch2_PFCollectionExtractor.cc": "a77d2c942d76ceb5dd0af0a91c704bf4357f7783a1dd0af60bdaa5694d4c2904",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/test/test_catch2_main.cc": "5847fda35c1320d94f8d088aaf34229d689f66f1da235f885cbb28c8f17e4260",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/test/test_mc_truth.sh": "3386eddb079853625b1a3eb219bda2b09cff85712c5b7fc60a8e5209df8ed099",
+    "cmssw/MyPFAnalyzer/PFCollectionExtractor/test/validate_pf_tree.C": "ae54aedf1ba67b24a20eb13a4a19f274cb92a15b2082c337851f5ecf1c48a793",
+    "jobs/cmssw.tgz": "57cb58645869d87d9030217f288d6d7c90e68fe4ffd6caa34759a21af06f113c",
+    "jobs/files_2016H.txt": "364995a92dc95bb5e2c58a75b675ed764760f13417d5bac2de05ab7dc6baa521",
+    "jobs/master.sh": "021e45857c6b7e2b097452b4a2149689a907d2e0cdcba57884d9717c98b06233",
+    "jobs/master_mc.sh": "55a88c03bbeedee8b0778c41017b4ee656d4a812296c617b2a49a79317a234a9",
+    "jobs/master_mc_bkg.sh": "37116520594e2d5e3945ce9a2c75808f224babdb06f8b8e82a05fd26ecae03a3",
+    "jobs/mc.txt": "7bdd4369d4ed03a3429fd8babc804e265476d1bb4ea3343bc88528726c052e55",
+    "jobs/mc_bkg.txt": "14e52d65192f2a0577e36402d31dccd302a20de6b3dbde95212d706b1150eda8",
+    "jobs/run_ntuplizer.sh": "4f602103aba37d77c8683be355980dc260a6d61cfc689d4ff361d709ae1a8d8d",
+    "jobs/submit": "2d4c47026739132d7aa9e4dfef29bdf726ccab5f83a0182458debf681528fb92",
+    "jobs/submit_mc": "77e9a1b8bd905890b9645d444de2963698349f8cf05c7756daf1adcd65b1b33e",
+    "jobs/submit_mc_bkg": "965b81ab4f41ad33b5c57378f0a339298930fc25ccb6233ee46fb63cc99e5199",
+    "package_cmssw.py": "97ee2ff314f0b15235bb0f1b35f8ad5585635182eb66e2cba4b61e08d839ee75",
+    "prepare_submission.py": "d84c37183cf77d679beea6f9f301d20f35a880b92f867ebae14622192c55f4e8"
+  }
+}
